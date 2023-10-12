@@ -1,6 +1,9 @@
+<!DOCTYPE html>
 <html>
     <head>
+
         <h1>EVALUATING PROMISING SOUTHERN BRAZILIAN BIOMASSES FOR SYNGAS PRODUCTION BY GASIFICATION</h1>
+
     </head>
     <body>
         <h2>INDUSTRIAL WASTE</h2>
@@ -42,23 +45,28 @@
         <h3>CORN STRAW</h3>
         <a href=https://doi.org/10.1016/j.fuproc.2019.03.021 title=Promoting air gasification of corn straw through biological pretreatment by biogas slurry: An initiative experimental study>[19] </a>
         <a href=https://doi.org/10.1016/j.fuel.2021.120780 title=CO2 gasification of straw biomass and its correlation with the feedstock characteristics>[11] </a>
-        <a href=https://doi.org/10.1016/j.renene.2018.07.144 title=Experimental investigation of tar formation and producer gas composition in biomass steam gasification in a 100kW dual fluidised bed gasifier>[13] </a>
+        <a href=https://doi.org/10.1016/j.renene.2018.07.144 title={Experimental investigation of tar formation and producer gas composition in biomass steam gasification in a 100kW dual fluidised bed gasifier}>[13] </a>
         
         <h2>ANIMAL WASTE</h2>
         <h3>CATTLE MANURE</h3>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
+        <a href=https://api.semanticscholar.org/CorpusID:111291452 title=Fixed-bed gasification of feedlot manure and poultry litter biomass
+        author={Soyuz Priyadarsan and Kalyan Annamalai and John M. Sweeten and Saqib Mukhtar and Mark Holtzapple},
+        journal={Transactions of the ASABE},
+        year={2004},
+        volume={47},
+        pages={1689-1696}>[20] </a>
+        <a href=https://doi.org/10.1016/j.enconman.2015.08.005 title=Fluidized bed gasification of high tonnage sorghum, cotton gin trash and beef cattle manure: Evaluation of synthesis gas production>[21] </a>
+        <a href=https://doi.org/10.1016/j.enconman.2018.07.061 title=Influence of the blend nickel porous hydrothermal carbon and cattle manure hydrochar catalyst on the hydrothermal gasification of cattle manure for H2 production>[22] </a>
 
         <h3>SWINE MANURE</h3>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
+        <a href=https://doi.org/10.1016/j.fuel.2017.01.041 title=Effect of different concentrations of O2 under inert and CO2 atmospheres on the swine manure combustion process>[23] </a>
+        <a href=https://doi.org/10.1016/j.fuel.2020.118738 title=Soot and char formation in the gasification of pig manure in a drop tube reactor>[24] </a>
+        <a href=https://doi.org/10.1016/j.fuproc.2015.04.027 title=Devolatilization kinetics of swine manure solid pyrolysis using deconvolution procedure. Determination of the bio-oil liquid yields and char gasification>[25] </a>
 
         <h3>POULTRY MANURE</h3>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
-        <a href=https://doi.org/10.3390/su14084669 title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis>[2] </a>
+        <a href=https://doi.org/10.1016/j.apenergy.2016.08.095  title=Syngas evolutionary behavior during chicken manure pyrolysis and air gasification>[26] </a>
+        <a href=https://doi.org/10.2172/794292 title= Demonstration of a Small Modular BioPower System Using Poultry Litter>[27] </a>
+        <a href=https://doi.org/10.1080/15435070701583102 title=Kinetics of Auto-Gasification of Poultry Litter>[28] </a>
 
     </body>
 </html>
