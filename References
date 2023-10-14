@@ -2,220 +2,249 @@ EVALUATING PROMISING SOUTHERN BRAZILIAN BIOMASSES FOR SYNGAS PRODUCTION BY GASIF
 
 INDUSTRIAL WASTE
   PAPER WASTE
-    [1]https://doi.org/10.1016/j.wasman.2015.04.031 
-      title=Thermal degradation of paper industry wastes from a recovered paper mill using TGA. Characterization and gasification test
+    [1] Thermal degradation of paper industry wastes from a recovered paper mill using TGA. Characterization and gasification test
       author = {Ziyin Zhang and Shusheng Pang} 
       journal = {Renewable Energy},
       volume = {132},
       pages = {416-424},
       year = {2019},
-    [2]https://doi.org/10.3390/su14084669 
-      title=Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis
+      doi = {https://doi.org/10.1016/j.wasman.2015.04.031}
+    [2] Energy Recovery from Waste Paper and Deinking Sludge to Support the Demand of the Paper Industry: A Numerical Analysis
       author = {Di Fraia, Simona and Uddin, M. Rakib},
       journal = {Sustainability},
       volume = {14},
       year = {2022},
-      number = {8}
-
+      number = {8},
+      doi = {https://doi.org/10.3390/su14084669}
+  
   FOOD WASTE
-    [3]https://doi.org/10.1016/j.fuel.2019.116735 
-      title=Experimental investigation on gasification characteristic of food waste using supercritical water for combustible gas production: Exploring the way to complete gasification
+    [3] Experimental investigation on gasification characteristic of food waste using supercritical water for combustible gas production: Exploring the way to complete gasification
+      author = {Jingwei Chen and Yi Fan and Xiaohuan Zhao and Jiaqiang E and Wenwen Xu and Feng Zhang and Gaoliang Liao and Erwei Leng and Shuai Liu},
       journal = {Fuel},
       volume = {263},
       pages = {116735},
       year = {2020},
-      author = {Jingwei Chen and Yi Fan and Xiaohuan Zhao and Jiaqiang E and Wenwen Xu and Feng Zhang and Gaoliang Liao and Erwei Leng and Shuai Liu}
-    [4]https://doi.org/10.1016/j.ijhydene.2020.05.256
-      title = {Assessment of supercritical water gasification of food waste under the background of waste sorting: Influences of plastic waste contents},
+      doi = {https://doi.org/10.1016/j.fuel.2019.116735}
+    [4] Assessment of supercritical water gasification of food waste under the background of waste sorting: Influences of plastic waste contents
+      author = {Hongcai Su and Wenjuan Liao and Jingyi Wang and Dwi Hantoko and Zhihao Zhou and Hongyu Feng and Jiahao Jiang and Mi Yan},
       journal = {International Journal of Hydrogen Energy},
       volume = {45},
       number = {41},
       pages = {21138-21147},
       year = {2020},
-      author = {Hongcai Su and Wenjuan Liao and Jingyi Wang and Dwi Hantoko and Zhihao Zhou and Hongyu Feng and Jiahao Jiang and Mi Yan}
-    [5]https://doi.org/10.1016/j.jece.2020.104722
-      title = {Steam gasification with torrefaction as pretreatment to enhance syngas production from mixed food waste},
+      doi = {https://doi.org/10.1016/j.ijhydene.2020.05.256}
+    [5] Steam gasification with torrefaction as pretreatment to enhance syngas production from mixed food waste
+      author = {Dharminder Singh and Sanjeev Yadav},
       journal = {Journal of Environmental Chemical Engineering},
       volume = {9},
       number = {1},
       pages = {104722},
       year = {2021},
-      author = {Dharminder Singh and Sanjeev Yadav}
+      doi = {https://doi.org/10.1016/j.jece.2020.104722}
+
   TEXTILE WASTE
-    [6]https://doi.org/10.1016/j.jclepro.2021.128306
-      title = {Co-hydrothermal carbonization of cotton textile waste and polyvinyl chloride waste for the production of solid fuel: Interaction mechanisms and combustion behaviors},
+    [6] Co-hydrothermal carbonization of cotton textile waste and polyvinyl chloride waste for the production of solid fuel: Interaction mechanisms and combustion behaviors
+      author = {Zhihua Xu and Renzhi Qi and Daofang Zhang and Yuquan Gao and Mengmeng Xiong and Weifang Chen},
       journal = {Journal of Cleaner Production},
       volume = {316},
       pages = {128306},
       year = {2021},
-      author = {Zhihua Xu and Renzhi Qi and Daofang Zhang and Yuquan Gao and Mengmeng Xiong and Weifang Chen}
-    [7] https://doi.org/10.1016/j.wasman.2019.04.025
-      title = {Highly efficient treatment of textile dyeing sludge by CO2 thermal plasma gasification},
+      doi = {https://doi.org/10.1016/j.jclepro.2021.128306}
+    [7] Highly efficient treatment of textile dyeing sludge by CO2 thermal plasma gasification
+      author = {Menglong Wang and Mengmei Mao and Ming Zhang and Guangdong Wen and Qiwei Yang and Baogen Su and Qilong Ren},
       journal = {Waste Management},
       volume = {90},
       pages = {29-36},
       year = {2019},
-      author = {Menglong Wang and Mengmei Mao and Ming Zhang and Guangdong Wen and Qiwei Yang and Baogen Su and Qilong Ren}
-    [8] https://doi.org/10.1016/J.ENG.2017.03.004
-      title = {Thermodynamic Analysis of the Gasification of Municipal Solid Waste},
+      doi = {https://doi.org/10.1016/j.wasman.2019.04.025}
+    [8] Thermodynamic Analysis of the Gasification of Municipal Solid Waste
+      author = {Pengcheng Xu and Yong Jin and Yi Cheng}
       journal = {Engineering},
       volume = {3},
       number = {3},
       pages = {416-422},
       year = {2017},
-      author = {Pengcheng Xu and Yong Jin and Yi Cheng}
+      doi = {https://doi.org/10.1016/J.ENG.2017.03.004}
 
 LIGNOCELLULOSIC
   RICE STRAW
-    [9] https://doi.org/10.1016/j.egyr.2020.08.050
-      title = {Mitigating bed agglomeration in a fluidized bed gasifier operating on rice straw},
+    [9] Mitigating bed agglomeration in a fluidized bed gasifier operating on rice straw
+      author = {Jurarat Nisamaneenate and Duangduen Atong and Anun Seemen and Viboon Sricharoenchaikul},
       journal = {Energy Reports},
       volume = {6},
       pages = {275-285},
       year = {2020},
-      author = {Jurarat Nisamaneenate and Duangduen Atong and Anun Seemen and Viboon Sricharoenchaikul}
-    [10] https://doi.org/10.1016/j.joei.2020.07.004
-      title = {Chemical looping based co-combustion of high ash Indian coal and rice straw operating under CO2 in-situ gasification mode},
+      doi = {https://doi.org/10.1016/j.egyr.2020.08.050}
+    [10] Chemical looping based co-combustion of high ash Indian coal and rice straw operating under CO2 in-situ gasification mode
+      author = {Barnali Bhui and Prabu V},
       journal = {Journal of the Energy Institute},
       volume = {94},
       pages = {176-190},
       year = {2021},
-      author = {Barnali Bhui and Prabu V}
-    [11] https://doi.org/10.1016/j.fuel.2021.120780
-      title = {CO2 gasification of straw biomass and its correlation with the feedstock characteristics},
+      doi = {https://doi.org/10.1016/j.joei.2020.07.004}
+    [11] CO2 gasification of straw biomass and its correlation with the feedstock characteristics
+      author = {Siqin Li and Hao Song and Junhao Hu and Haiping Yang and Jun Zou and Youjian Zhu and Ziyue Tang and Hanping Chen},
       journal = {Fuel},
       volume = {297},
       pages = {120780},
       year = {2021},
-      author = {Siqin Li and Hao Song and Junhao Hu and Haiping Yang and Jun Zou and Youjian Zhu and Ziyue Tang and Hanping Chen}
+      doi = {https://doi.org/10.1016/j.fuel.2021.120780}
+
   RICE HUSK
-    [12] https://doi.org/10.1016/j.talanta.2015.06.045
-      title = {Analysis of the lignocellulosic components of biomass residues for biorefinery opportunities},
+    [12] Analysis of the lignocellulosic components of biomass residues for biorefinery opportunities
+      author = {M.K.D. Rambo and F.L. Schmidt and M.M.C. Ferreira},
       journal = {Talanta},
       volume = {144},
       pages = {696-703},
       year = {2015},
-      author = {M.K.D. Rambo and F.L. Schmidt and M.M.C. Ferreira}
-    [13] https://doi.org/10.1016/j.renene.2018.07.144
-      title = {Experimental investigation of tar formation and producer gas composition in biomass steam gasification in a 100 kW dual fluidised bed gasifier},
+      doi = {https://doi.org/10.1016/j.talanta.2015.06.045}
+    [13] Experimental investigation of tar formation and producer gas composition in biomass steam gasification in a 100 kW dual fluidised bed gasifier
+      author = {Ziyin Zhang and Shusheng Pang},
       journal = {Renewable Energy},
       volume = {132},
       pages = {416-424},
       year = {2019},
-      author = {Ziyin Zhang and Shusheng Pang}
-    [14] https://doi.org/10.1016/j.renene.2021.01.045
-      title = {Gasification operational characteristics of 20-tons-Per-Day rice husk fluidized-bed reactor},
+      doi = {https://doi.org/10.1016/j.renene.2018.07.144}
+    [14] Gasification operational characteristics of 20-tons-Per-Day rice husk fluidized-bed reactor
+      author = {Sung Jin Park and Seong Hye Son and Jin Woo Kook and Ho Won Ra and Sang Jun Yoon and Tae-Young Mun and Ji Hong Moon and Sung Min Yoon and Jae Ho Kim and Yong Ku Kim and Jae Goo Lee and Do-Yong Lee and Myung Won Seo},
       journal = {Renewable Energy},
       volume = {169},
       pages = {788-798},
       year = {2021},
-      author = {Sung Jin Park and Seong Hye Son and Jin Woo Kook and Ho Won Ra and Sang Jun Yoon and Tae-Young Mun and Ji Hong Moon and Sung Min Yoon and Jae Ho Kim and Yong Ku Kim and Jae Goo Lee and Do-Yong Lee and Myung Won Seo}
+      doi = {https://doi.org/10.1016/j.renene.2021.01.045}
+     
   SOYBEAN STRAW
     [11]
-    [15] https://doi.org/10.1016/j.enconman.2020.112545
-      title = {Hydrothermal gasification of soybean straw and flax straw for hydrogen-rich syngas production: Experimental and thermodynamic modeling},
+    [15] Hydrothermal gasification of soybean straw and flax straw for hydrogen-rich syngas production: Experimental and thermodynamic modeling
+      author = {Jude A. Okolie and Sonil Nanda and Ajay K. Dalai and Janusz A. Kozinski},
       journal = {Energy Conversion and Management},
       volume = {208},
       pages = {112545},
       year = {2020},
-      author = {Jude A. Okolie and Sonil Nanda and Ajay K. Dalai and Janusz A. Kozinski}
-    [16] https://doi.org/10.1016/j.jaecs.2021.100051
-      title = {Comparative study of electric-heating torrefaction and solar-driven torrefaction of biomass: Characterization of property variation and energy usage with torrefaction severity},
+      doi = {https://doi.org/10.1016/j.enconman.2020.112545}
+    [16] Comparative study of electric-heating torrefaction and solar-driven torrefaction of biomass: Characterization of property variation and energy usage with torrefaction severity
+      author = {Dengyu Chen and Kehui Cen and Ziyu Gan and Xiaozhuang Zhuang and Yuping Ba},
       journal = {Applications in Energy and Combustion Science},
       volume = {9},
       pages = {100051},
       year = {2022},
-      author = {Dengyu Chen and Kehui Cen and Ziyu Gan and Xiaozhuang Zhuang and Yuping Ba}
+      doi = {https://doi.org/10.1016/j.jaecs.2021.100051}
+
   WHEAT STRAW
     [11]
-    [17] https://doi.org/10.1021/ie900595m
+    [17] Pilot-Scale Gasification of Corn Stover, Switchgrass, Wheat Straw, and Wood: 1. Parametric Study and Comparison with Literature
       author = {Carpenter, Daniel L. and Bain, Richard L. and Davis, Ryan E. and Dutta, Abhijit and Feik, Calvin J. and Gaston, Katherine R. and Jablonski, Whitney and Phillips, Steven D. and Nimlos, Mark R.},
-      title = {Pilot-Scale Gasification of Corn Stover, Switchgrass, Wheat Straw, and Wood: 1. Parametric Study and Comparison with Literature},
       journal = {Industrial \& Engineering Chemistry Research},
       volume = {49},
       number = {4},
       pages = {1859-1871},
       year = {2010},
-    [18] https://doi.org/10.1002/ese3.219
+      doi = {https://doi.org/10.1021/ie900595m}
+    [18] Catalytic gasification of wheat straw in hot compressed (subcritical and supercritical) water for hydrogen production
       author = {Nanda, Sonil and Reddy, Sivamohan N. and Vo, Dai-Viet N. and Sahoo, Bichitra N. and Kozinski, Janusz A.},
-      title = {Catalytic gasification of wheat straw in hot compressed (subcritical and supercritical) water for hydrogen production},
       journal = {Energy Science \& Engineering},
       volume = {6},
       number = {5},
       pages = {448-459},
-      year = {2018}
+      year = {2018},
+      doi = {https://doi.org/10.1002/ese3.219}
+
   CORN STRAW
     [11]
     [13]
-    [19] https://doi.org/10.1016/j.fuproc.2019.03.021
-      title = {Promoting air gasification of corn straw through biological pretreatment by biogas slurry: An initiative experimental study},
+    [19] Promoting air gasification of corn straw through biological pretreatment by biogas slurry: An initiative experimental study
+      author = {Xiang Guo and Guanyi Chen and Fang Liu and Caiyu Wang and Ke Gao and Zhanjun Cheng and Beibei Yan and Wenchao Ma},
       journal = {Fuel Processing Technology},
       volume = {191},
       pages = {60-70},
       year = {2019},
-      author = {Xiang Guo and Guanyi Chen and Fang Liu and Caiyu Wang and Ke Gao and Zhanjun Cheng and Beibei Yan and Wenchao Ma}
+      doi = {https://doi.org/10.1016/j.fuproc.2019.03.021}
+
 ANIMAL WASTE
   CATTLE MANURE
-    [20] https://api.semanticscholar.org/CorpusID:111291452
-      title={Fixed-bed gasification of feedlot manure and poultry litter biomass} 
-      author={Soyuz Priyadarsan and Kalyan Annamalai and John M. Sweeten and Saqib Mukhtar and Mark Holtzapple},
-      journal={Transactions of the ASABE},
-      year={2004},
-      volume={47},
-      pages={1689-1696}
-    [21] https://doi.org/10.1016/j.enconman.2015.08.005
-      title = {Fluidized bed gasification of high tonnage sorghum, cotton gin trash and beef cattle manure: Evaluation of synthesis gas production},
+    [20] Fixed-bed gasification of feedlot manure and poultry litter biomass
+      author = {Soyuz Priyadarsan and Kalyan Annamalai and John M. Sweeten and Saqib Mukhtar and Mark Holtzapple},
+      journal = {Transactions of the ASABE},
+      year = {2004},
+      volume = {47},
+      pages = {1689-1696}
+      link = {https://api.semanticscholar.org/CorpusID:111291452}
+    [21] Fluidized bed gasification of high tonnage sorghum, cotton gin trash and beef cattle manure: Evaluation of synthesis gas production
+      author = {Amado L. Maglinao and Sergio C. Capareda and Hyungseok Nam},
       journal = {Energy Conversion and Management},
       volume = {105},
       pages = {578-587},
       year = {2015},
-      author = {Amado L. Maglinao and Sergio C. Capareda and Hyungseok Nam}
-    [22] https://doi.org/10.1016/j.enconman.2018.07.061
-      title = {Influence of the blend nickel/porous hydrothermal carbon and cattle manure hydrochar catalyst on the hydrothermal gasification of cattle manure for H2 production},
+      doi = {https://doi.org/10.1016/j.enconman.2015.08.005}
+    [22] Influence of the blend nickel/porous hydrothermal carbon and cattle manure hydrochar catalyst on the hydrothermal gasification of cattle manure for H2 production
+      author = {Ahmad Tavasoli and Mostafa Aslan and Mohammad Salimi and Salar Balou and S.M. Pirbazari and Havva Hashemi and Komeil Kohansal},
       journal = {Energy Conversion and Management},
       volume = {173},
       pages = {15-28},
       year = {2018},
-      author = {Ahmad Tavasoli and Mostafa Aslan and Mohammad Salimi and Salar Balou and S.M. Pirbazari and Havva Hashemi and Komeil Kohansal}
+      doi = {https://doi.org/10.1016/j.enconman.2018.07.061}
+
   SWINE MANURE
-    [23] https://doi.org/10.1016/j.fuel.2017.01.041
-      title = {Effect of different concentrations of O2 under inert and CO2 atmospheres on the swine manure combustion process},
+    [23] Effect of different concentrations of O2 under inert and CO2 atmospheres on the swine manure combustion process
+      author = {D. López-González and M.M. Parascanu and M. Fernandez-Lopez and M. Puig-Gamero and G. Soreanu and A. Avalos-Ramírez and J.L. Valverde and L. Sanchez-Silva},
       journal = {Fuel},
       volume = {195},
       pages = {23-32},
       year = {2017},
-      author = {D. López-González and M.M. Parascanu and M. Fernandez-Lopez and M. Puig-Gamero and G. Soreanu and A. Avalos-Ramírez and J.L. Valverde and L. Sanchez-Silva}
-    [24] https://doi.org/10.1016/j.fuel.2020.118738
-      title = {Soot and char formation in the gasification of pig manure in a drop tube reactor},
+      doi = {https://doi.org/10.1016/j.fuel.2017.01.041}
+    [24] Soot and char formation in the gasification of pig manure in a drop tube reactor
+      author = {I. Adánez-Rubio and R. Ferreira and T. Rio and M.U. Alzueta and M. Costa},
       journal = {Fuel},
       volume = {281},
       pages = {118738},
       year = {2020},
-      author = {I. Adánez-Rubio and R. Ferreira and T. Rio and M.U. Alzueta and M. Costa}
-    [25] https://doi.org/10.1016/j.fuproc.2015.04.027
-      title = {Devolatilization kinetics of swine manure solid pyrolysis using deconvolution procedure. Determination of the bio-oil/liquid yields and char gasification},
+      doi = {https://doi.org/10.1016/j.fuel.2020.118738}
+    [25] Devolatilization kinetics of swine manure solid pyrolysis using deconvolution procedure. Determination of the bio-oil/liquid yields and char gasification
+      author = {Bojan Janković},
       journal = {Fuel Processing Technology},
       volume = {138},
       pages = {1-13},
       year = {2015},
-      author = {Bojan Janković}
+      doi = {https://doi.org/10.1016/j.fuproc.2015.04.027}
+
   POULTRY MANURE
-    [26] https://doi.org/10.1016/j.apenergy.2016.08.095
-      title = {Syngas evolutionary behavior during chicken manure pyrolysis and air gasification},
+    [26] Syngas evolutionary behavior during chicken manure pyrolysis and air gasification
+      author = {K.G. Burra and M.S. Hussein and R.S. Amano and A.K. Gupta},
       journal = {Applied Energy},
       volume = {181},
       pages = {408-415},
       year = {2016},
-      author = {K.G. Burra and M.S. Hussein and R.S. Amano and A.K. Gupta}
-    [27] https://doi.org/10.2172/794292
-      title = {Demonstration of a Small Modular BioPower System Using Poultry Litter},
+      doi = {https://doi.org/10.1016/j.apenergy.2016.08.095}
+    [27] Demonstration of a Small Modular BioPower System Using Poultry Litter
+      author = {Reardon, John P and Lilley, Art and Wimberly, Jim and Browne, Kingsbury and Beard, Kelly and Avens, Jack},
       year = {2002},
-      author = {Reardon, John P and Lilley, Art and Wimberly, Jim and Browne, Kingsbury and Beard, Kelly and Avens, Jack}
-    [28] https://doi.org/10.1080/15435070701583102
+      doi = {https://doi.org/10.2172/794292}
+    [28] Kinetics of Auto-Gasification of Poultry Litter
       author = {V. Kirubakaran, V. Sivaramakrishnan, M. Premalatha and P. Subramanian},
-      title = {Kinetics of Auto-Gasification of Poultry Litter},
       journal = {International Journal of Green Energy},
       volume = {4},
       number = {5},
       pages = {519-534},
-      year = {2007}
+      year = {2007},
+      doi = {https://doi.org/10.1080/15435070701583102}
+
+AVAILABILITY AND LOCATIONS
+    [29] Inventário Energético de Resíduos Rurais
+      author = {Empresa de Pesquisa Energética}
+      year = {2014}
+      link = {https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-251/topico-308/DEA%2015%20-%2014%20-%20%20Invent%C3%A1rio%20Energ%C3%A9tico%20de%20Res%C3%ADduos%20Rurais%5B1%5D.pdf}
+    [30] Casca de arroz e palhada de soja na compostagem de carcaças de frangos de corte
+      author = {Paulo Giovanni de Abreu, Doralice Pedroso-de-Paiva, Valéria Maria Nascimento Abreu, Arlei Coldebella e Taiana Cestonaro},
+      journal = {Animal Sciences},
+      volume = {33},
+      number = {1},
+      pages = {51-57},
+      year = {2011},
+      link = {https://www.redalyc.org/pdf/3031/303126503008.pdf}
+    [31] Composição Química da Palha de Milho com Qualidade para Artesanato 
+      author = {Maria Cristina Dias Paes, Flavia França Teixeira e Ileane Samara Martins},
+      link = {https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/491365/1/Composicaoquimica.pdf}
+    [32] Efeitos da Fertilização Nitrogenada sobre a Produtividade e Acabamento de Trigo Cultivado sobre Palhada de Soja e Milho
+      author = {José Salvador Simoneti Foloni, Sergio Ricardo Silva, Manoel Carlos Bassoi,Adilson de Oliveira Júnior e César de Castro},
+      year = {2015},
+      link = {https://www.alice.cnptia.embrapa.br/bitstream/doc/1021387/1/2015solostrabalho158.pdf}
